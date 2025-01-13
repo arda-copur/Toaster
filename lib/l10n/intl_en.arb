@@ -1,0 +1,12 @@
+{
+  "appTitle": "Toaster",
+  "noMediaSelected": "No media selected.",
+  "mediaPath": "Media Path: {path}",
+  "originalSize": "Original Size: {size} KB",
+  "compressMedia": "Compress Media",
+  "compressedMedia": "Compressed Media:",
+  "downloadMedia": "Download Media",
+  "downloadedMediaPath": "Downloaded Media Path: {path}",
+  "pickImage": "Pick Image",
+  "pickVideo": "Pick Video"
+}

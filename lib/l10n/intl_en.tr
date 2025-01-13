@@ -1,0 +1,12 @@
+{
+  "appTitle": "Tost Makinesi",
+  "noMediaSelected": "Hiçbir medya seçilmedi.",
+  "mediaPath": "Medya Yolu: {path}",
+  "originalSize": "Orijinal Boyut: {size} KB",
+  "compressMedia": "Medya Sıkıştır",
+  "compressedMedia": "Sıkıştırılmış Medya:",
+  "downloadMedia": "Medya İndir",
+  "downloadedMediaPath": "İndirilen Medya Yolu: {path}",
+  "pickImage": "Resim Seç",
+  "pickVideo": "Video Seç"
+}
