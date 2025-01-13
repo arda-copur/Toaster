@@ -14,7 +14,6 @@ class AppLocalizations {
     return Localizations.of<AppLocalizations>(context, AppLocalizations)!;
   }
 
-  // Metinleri burada tanımlayın
   String get appTitle =>
       Intl.message('Toaster', name: 'appTitle', locale: locale.toString());
   String get noMediaSelected => Intl.message('No media selected.',

@@ -11,7 +11,7 @@ class MediaPicked extends MediaState {
 }
 
 class MediaCompressed extends MediaState {
-  final List<String> compressedPaths; // Sıkıştırılmış dosya yolları
+  final List<String> compressedPaths;
 
   MediaCompressed(this.compressedPaths);
 }
