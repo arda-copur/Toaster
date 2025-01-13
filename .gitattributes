@@ -1,0 +1,11 @@
+# Dart dilini öncelikli yap
+*.dart linguist-detectable=true
+
+# C++ dosyalarını dil istatistiklerinden hariç tut
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.c linguist-detectable=false
+
+# Diğer platform dosyalarını hariç tut
+ios/** linguist-vendored
+android/** linguist-vendored
