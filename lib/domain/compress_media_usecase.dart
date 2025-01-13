@@ -1,4 +1,4 @@
-import '../../data/repositories/media_repository.dart';
+import '../data/repositories/media_repository.dart';
 
 class CompressMediaUseCase {
   final MediaRepository repository;

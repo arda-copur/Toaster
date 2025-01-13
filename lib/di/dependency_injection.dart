@@ -1,8 +1,8 @@
 import '../data/repositories/media_repository.dart';
 import '../data/data_sources/image_data_source.dart';
 import '../data/data_sources/video_data_source.dart';
-import '../domain/usecases/compress_media_usecase.dart';
-import '../domain/usecases/download_media_usecase.dart';
+import '../domain/compress_media_usecase.dart';
+import '../domain/download_media_usecase.dart';
 
 class DependencyInjection {
   static MediaRepository createMediaRepository() {

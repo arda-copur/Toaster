@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../domain/usecases/compress_media_usecase.dart';
-import '../../domain/usecases/download_media_usecase.dart';
+import '../../domain/compress_media_usecase.dart';
+import '../../domain/download_media_usecase.dart';
 import 'media_event.dart';
 import 'media_state.dart';
 
